@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\RSku\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="82825756edeeb3b56b15e73b2edd56e93da5a444">
+        <dex dex="D:\RSku\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-8.1.0_6ab0099adda2b133680367e484bd1e657438e67c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\RSku\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="d0dda274b703dd9c5bb056867649d22b4171ae7d">
+        <dex dex="D:\RSku\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-8.1.0_86bbd16404cc1e69010d525d2044e412332a450c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\RSku\app\build\intermediates\exploded-aar\com.android.support\design\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="D:\RSku\app\build\intermediates\pre-dexed\debug\com.android.support-design-23.1.1_a430f004a0020f2f3354866fd9c577781fe95d3f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\RSku\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\libs\internal_impl-23.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="D:\RSku\app\build\intermediates\pre-dexed\debug\internal_impl-23.1.1_ba4a0d8b0a2d969e9d78d8b046efe9aa6323d5b9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\RSku\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="4477ea44f5ec5ad064022a22691732d7638ff197">
+        <dex dex="D:\RSku\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-appindexing-8.1.0_e3cc9f2e4a57482b3e4ab317f0fb5ab59183b22a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Lenovo\.gradle\caches\modules-2\files-2.1\com.nostra13.universalimageloader\universal-image-loader\1.9.5\442dbfb517b9ab5cb5c6da7ebf8cc28ec5bd0375\universal-image-loader-1.9.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="442dbfb517b9ab5cb5c6da7ebf8cc28ec5bd0375">
+        <dex dex="D:\RSku\app\build\intermediates\pre-dexed\debug\universal-image-loader-1.9.5_d9314af3100a0aa123e435c28935495b7f0b2b95.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Lenovo\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.1\support-annotations-23.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="D:\RSku\app\build\intermediates\pre-dexed\debug\support-annotations-23.1.1_96179ebabb6de45b849b98249770c34ea33f6fa9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\RSku\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="39ae02ce40c3ac828abbf780ce0ff5d7a28b7d6a">
+        <dex dex="D:\RSku\app\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-23.0.1_5a02677e7d65cb4f986307759c170ff9a24cc606.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\RSku\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="D:\RSku\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-23.1.1_f9f525e5f2dc1c03a3334b56d0d707d15903fdc3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\RSku\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="D:\RSku\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.1.1_9fc8bc38038a2ea50ccb5073bc73da37eb59c5f4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Lenovo\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.4.0\f36d2d4e3a36b3259aaf9d004d29b4cdc6c1bfb2\picasso-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="f36d2d4e3a36b3259aaf9d004d29b4cdc6c1bfb2">
+        <dex dex="D:\RSku\app\build\intermediates\pre-dexed\debug\picasso-2.4.0_640d94b129b4346ad322663019fc830e853ca0c2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\RSku\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="D:\RSku\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.1.1_f837e57c2df9d14c6c32783e2f5d34c7f386549f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\RSku\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="2a7e47da654546f9457deb6132364f1bf33a1857">
+        <dex dex="D:\RSku\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-maps-8.1.0_0f2c5ce9fa050aa7b62a3d9e74667710b2c0491e.jar" />
+    </item>
+
+</items>

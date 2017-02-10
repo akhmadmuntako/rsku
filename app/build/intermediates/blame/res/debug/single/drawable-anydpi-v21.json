@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "D:\\RSku\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_location_black_24dp.xml",
+        "source": "D:\\RSku\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_location_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\RSku\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_email_black_24dp.xml",
+        "source": "D:\\RSku\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_email_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\RSku\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_phone_black_24dp.xml",
+        "source": "D:\\RSku\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_phone_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\RSku\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_menu_send.xml",
+        "source": "D:\\RSku\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_menu_send.xml"
+    },
+    {
+        "merged": "D:\\RSku\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_menu_gallery.xml",
+        "source": "D:\\RSku\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_menu_gallery.xml"
+    },
+    {
+        "merged": "D:\\RSku\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_event_24dp.xml",
+        "source": "D:\\RSku\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_event_24dp.xml"
+    },
+    {
+        "merged": "D:\\RSku\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_menu_camera.xml",
+        "source": "D:\\RSku\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_menu_camera.xml"
+    },
+    {
+        "merged": "D:\\RSku\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_menu_manage.xml",
+        "source": "D:\\RSku\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_menu_manage.xml"
+    },
+    {
+        "merged": "D:\\RSku\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_create_24dp.xml",
+        "source": "D:\\RSku\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_create_24dp.xml"
+    },
+    {
+        "merged": "D:\\RSku\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_menu_share.xml",
+        "source": "D:\\RSku\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_menu_share.xml"
+    },
+    {
+        "merged": "D:\\RSku\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_menu_slideshow.xml",
+        "source": "D:\\RSku\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_menu_slideshow.xml"
+    },
+    {
+        "merged": "D:\\RSku\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_person_24dp.xml",
+        "source": "D:\\RSku\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_person_24dp.xml"
+    }
+]

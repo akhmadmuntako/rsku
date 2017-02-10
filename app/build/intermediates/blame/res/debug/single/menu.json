@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "D:\\RSku\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_antrian.xml",
+        "source": "D:\\RSku\\app\\src\\main\\res\\menu\\menu_antrian.xml"
+    },
+    {
+        "merged": "D:\\RSku\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "D:\\RSku\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "D:\\RSku\\app\\build\\intermediates\\res\\merged\\debug\\menu\\lihat_antrian.xml",
+        "source": "D:\\RSku\\app\\src\\main\\res\\menu\\lihat_antrian.xml"
+    },
+    {
+        "merged": "D:\\RSku\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_utama_drawer.xml",
+        "source": "D:\\RSku\\app\\src\\main\\res\\menu\\activity_utama_drawer.xml"
+    },
+    {
+        "merged": "D:\\RSku\\app\\build\\intermediates\\res\\merged\\debug\\menu\\utama.xml",
+        "source": "D:\\RSku\\app\\src\\main\\res\\menu\\utama.xml"
+    },
+    {
+        "merged": "D:\\RSku\\app\\build\\intermediates\\res\\merged\\debug\\menu\\daftar.xml",
+        "source": "D:\\RSku\\app\\src\\main\\res\\menu\\daftar.xml"
+    }
+]

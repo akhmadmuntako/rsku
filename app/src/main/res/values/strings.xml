@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">RSku</string>
+    <string name="h_nama">Nama Anda</string>
+    <string name="h_telp">Nomor Telepon Anda</string>
+    <string name="teks_log">Klik Untuk Login</string>
+    <string name="h_peny">Tulis Keluhan Anda</string>
+    <string name="h_diag">Tulis Diagnosis Anda</string>
+    <string name="h_kelas">Kelas</string>
+    <string name="h_umur">Umur Anda</string>
+    <string name="h_jk">Jenis Kelamin	:</string>
+    <string name="h_laki">Laki-Laki</string>
+    <string name="h_perempuan">Perempuan</string>
+    <string name="h_tanggal">Tanggal</string>
+    <string name="h_jam">Jam</string>
+    <string name="h_kuota">Tidak ada ruangan tersedia untuk kelas ini</string>
+    <string name="h_dok">Pilihan Dokter	:</string>
+    <string name="h_poli">Pilihan Poliklinik :</string>
+    <string name="status_q">Cek Antrian</string>
+    <string name="btn_daftar">DAFTAR</string>
+    <string name="action_settings">Pengaturan</string>
+    <string name="hello_world" translatable="false">Hello world</string>
+    <string name="title_activity_register">Pendaftaran</string>
+    <string name="title_activity_my_account">Akun Anda</string>
+    <string name="title_activity_daftar">Reservasi Rawat Jalan</string>
+    <string name="title_activity_login">Login</string>
+    <string name="b_akun">Buat Akun</string>
+    <string name="p_akun">Isilah semua inputan</string>
+    <string name="t_akun">Pengaturan Akun</string>
+    <string name="show">Lihat</string>
+    <string name="edit">UBAH</string>
+    <string name="simpan">SIMPAN</string>
+    <string name="logout">Keluar</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_nama">Nama Pengguna</string>
+    <string name="prompt_notel">Nomor Telepon</string>
+    <string name="prompt_ttl">Tanggal Lahir</string>
+    <string name="prompt_password">Sandi</string>
+    <string name="action_sign_in">Masuk</string>
+    <string name="action_refresh">Muat Ulang</string>
+    <string name="action_sign_up">Daftar</string>
+    <string name="action_sign_in_short">Masuk</string>
+    <string name="error_invalid_email">Email tidak valid</string>
+    <string name="error_invalid_password">Password terlalu pendek</string>
+    <string name="error_incorrect_password">Password salah</string>
+    <string name="error_field_required">Harus di isi</string>
+    <string name="email_valid">Email tidak valid</string>
+    <string name="ep_valid">Email atau password salah</string>
+    <string name="ep_kosong">Email atau password harus terisi</string>
+    <string name="np_kosong">Nama atau password harus terisi</string>
+    <string name="error_internet">Tidak ada koneksi internet.</string>
+    <string name="no_antrian">Tidak Ada Antrian</string>
+    <string name="no_info">Tidak Ada Info</string>
+    <string name="no_pasien">Tidak Ada Pasien</string>
+    <string name="error_timeout">Gagal memuat data. Periksa internet anda</string>
+    <string name="logout_msg">Anda yakin ingin keluar ?</string>
+    <string name="login_msg">Anda belum login. Ingin login sekarang?</string>
+    <string name="ya">Ya</string>
+    <string name="tidak">Tidak</string>
+    <string name="lewati">Lewati</string>
+    <string name="tunggu_msg">Harap Tunggu&#8230;</string>
+    <string name="load_msg">Sedang memuat&#8230;</string>
+    <string name="permission_rationale" translatable="false">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="title_activity_utama">RSku</string>
+
+    <string name="navigation_drawer_open" translatable="false">Open navigation drawer</string>
+    <string name="navigation_drawer_close" translatable="false">Close navigation drawer</string>
+    <string name="section_format" translatable="false">Hello World from section: %1$d</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment" translatable="false">Hello blank fragment</string>
+    <string name="title_activity_antrian">Antrian</string>
+    <string name="title_activity_info">Info</string>
+    <string name="Akun">Akun</string>
+    <string name="antrian">Cek Antrian</string>
+    <string name="Tentang">Tentang</string>
+    <string name="Bantuan">Bantuan</string>
+    <string name="Facebook">Facebook</string>
+    <string name="Twitter">Twitter</string>
+    <string name="medsos">Media Sosial</string>
+    <string name="regsuk">Registrasi Sukses</string>
+    <string name="reggag">Registrasi Gagal</string>
+    <string name="edtsuk">Sukses Mengubah Data</string>
+    <string name="edtgag">Gagal Mengubah Data</string>
+    <string name="tombol1">INFO KESEHATAN</string>
+    <string name="tombol2">RESERVASI RAWAT JALAN</string>
+    <string name="tombol3">RESERVASI RAWAT INAP</string>
+    <string name="tombol4">JADWAL DOKTER</string>
+    <string name="tombol5">LOKASI RUMAH SAKIT</string>
+    <string name="tombol51">DATA PASIEN</string>
+    <string name="cek_antrian">SEGERA CEK ANTRIAN ANDA</string>
+    <string name="Pesan">Pesan</string>
+    <string name="title_activity_kuota">Reservasi Rawat Inap</string>
+    <string name="title_activity_pasien">Data Pasien</string>
+    <string name="h_ruangan">No. Kamar</string>
+    <string name="h_obat">Obat</string>
+    <string name="h_hr">HR (BPM)</string>
+    <string name="h_abp">ABP (mm Hg)</string>
+    <string name="h_spo2">SpO2 (%)</string>
+    <string name="h_prog">Perkembangan</string>
+    <string name="h_update">Pembaruan Terakhir</string>
+    <string name="p_jk">JK</string>
+    <string name="p_umur">Umur</string>
+    <string name="p_nama">Nama Pasien</string>
+    <string name="p_diag">Diagnosis Pasien</string>
+    <string name="p_update">Pembaruan Terakhir : </string>
+    <string name="t_update">Perbarui</string>
+    <string name="title_activity_jadwal">Jadwal Dokter</string>
+    <string name="upgag">Update Gagal</string>
+    <string name="upsuk">Update Berhasil</string>
+    <string name="rs_tutup">Poliklinik sedang tutup</string>
+    <string name="tutup">Tutup</string>
+    <string name="t_panduan">BANTUAN MENGGUNAKAN APLIKASI</string>
+    <string name="title_activity_bantuan">Bantuan</string>
+    <string name="h_utk">Untuk :</string>
+    <string name="hapsuk">Berhasil Menghapus</string>
+    <string name="t_delete">Hapus</string>
+    <string name="hapus_msg">Anda Yakin ingin menghapus data?</string>
+    <string name="Rate">Nilai Kami</string>
+</resources>

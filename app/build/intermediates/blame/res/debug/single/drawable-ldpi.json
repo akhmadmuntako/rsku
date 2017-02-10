@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "D:\\RSku\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\ic_menu_camera.png",
+        "source": "D:\\RSku\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_menu_camera.png"
+    },
+    {
+        "merged": "D:\\RSku\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\ic_event_24dp.png",
+        "source": "D:\\RSku\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_event_24dp.png"
+    },
+    {
+        "merged": "D:\\RSku\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\ic_create_24dp.png",
+        "source": "D:\\RSku\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_create_24dp.png"
+    },
+    {
+        "merged": "D:\\RSku\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\ic_menu_manage.png",
+        "source": "D:\\RSku\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_menu_manage.png"
+    },
+    {
+        "merged": "D:\\RSku\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\ic_menu_send.png",
+        "source": "D:\\RSku\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_menu_send.png"
+    },
+    {
+        "merged": "D:\\RSku\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\ic_menu_gallery.png",
+        "source": "D:\\RSku\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_menu_gallery.png"
+    },
+    {
+        "merged": "D:\\RSku\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\ic_email_black_24dp.png",
+        "source": "D:\\RSku\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_email_black_24dp.png"
+    },
+    {
+        "merged": "D:\\RSku\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\ic_menu_slideshow.png",
+        "source": "D:\\RSku\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_menu_slideshow.png"
+    },
+    {
+        "merged": "D:\\RSku\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\ic_phone_black_24dp.png",
+        "source": "D:\\RSku\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_phone_black_24dp.png"
+    },
+    {
+        "merged": "D:\\RSku\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\ic_person_24dp.png",
+        "source": "D:\\RSku\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_person_24dp.png"
+    },
+    {
+        "merged": "D:\\RSku\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\ic_location_black_24dp.png",
+        "source": "D:\\RSku\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_location_black_24dp.png"
+    },
+    {
+        "merged": "D:\\RSku\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\ic_menu_share.png",
+        "source": "D:\\RSku\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_menu_share.png"
+    }
+]
